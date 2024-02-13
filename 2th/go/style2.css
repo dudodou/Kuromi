@@ -65,16 +65,16 @@ ul{
 
 }
 .ani li:nth-child(1){
-    background: url(./images/scroll1.jpeg);
+    background: url(.././images/scroll1.jpeg);
     background-size: cover;
     background-position: -40px;
 }
 .ani li:nth-child(2){
-    background: url(./images/scroll2.jpeg);
+    background: url(.././images/scroll2.jpeg);
     background-size: cover;
 }
 .ani li:nth-child(3){
-    background: url(./images/scroll3.jpeg);
+    background: url(.././images/scroll3.jpeg);
     background-size: cover;
 }
 .ani li:nth-child(4){
