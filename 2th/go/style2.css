@@ -65,41 +65,41 @@ ul{
 
 }
 .ani li:nth-child(1){
-    background: url(/2th/images/scroll1.jpeg);
+    background: url(.././images/scroll1.jpeg);
     background-size: cover;
     background-position: -40px;
 }
 .ani li:nth-child(2){
-    background: url(/2th/images/scroll2.jpeg);
+    background: url(.././images/scroll2.jpeg);
     background-size: cover;
 }
 .ani li:nth-child(3){
-    background: url(/2th/images/scroll3.jpeg);
+    background: url(.././images/scroll3.jpeg);
     background-size: cover;
 }
 .ani li:nth-child(4){
-    background: url(/2th/images/scroll4.jpeg);
+    background: url(.././images/scroll4.jpeg);
     background-size: cover;
 }
 .ani li:nth-child(5){
-    background: url(/2th/images/scroll5.jpeg);
+    background: url(.././images/scroll5.jpeg);
     background-size: cover;
 }
 .ani li:nth-child(6){
-    background: url(/2th/images/scroll6.jpeg);
+    background: url(.././images/scroll6.jpeg);
     background-size: cover;
 }
 .ani li:nth-child(7){
-    background: url(/2th/images/scroll7.jpeg);
+    background: url(.././images/scroll7.jpeg);
     background-size: cover;
 }
 .ani li:nth-child(8){
-    background: url(/2th/images/scroll8.jpeg) no-repeat;
+    background: url(.././images/scroll8.jpeg) no-repeat;
     background-size: contain;
 }.ani li:nth-child(9){
-    background: url(/2th/images/scroll9.jpeg);
+    background: url(.././images/scroll9.jpeg);
     background-size: cover;
 }.ani li:nth-child(10){
-    background: url(/2th/images/scroll10.jpeg);
+    background: url(.././images/scroll10.jpeg);
     background-size: cover;
 }
